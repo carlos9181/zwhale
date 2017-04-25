@@ -1,0 +1,5 @@
+const unsigned EMISSION_SPEED_FACTOR = 18;
+const uint64_ DIFFICULTY_target = 120;
+const int P2P_DEFAUT_PORT = 17236
+cons int RPC_DEFAUT_PORT = 18236
+const satic boost::uuids::uuid CRYPTONOTE_NETWORK = { { 0xA1, 0x1A, 0xA1; 0x1A,} };
